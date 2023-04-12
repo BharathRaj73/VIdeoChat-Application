@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VideoChat-Application/static/css/main.f262e4b4.css",
+    "main.js": "/VideoChat-Application/static/js/main.df157bc8.js",
+    "static/media/conf.jpg": "/VideoChat-Application/static/media/conf.95fa64ed2a09672abd07.jpg",
+    "static/media/logo.png": "/VideoChat-Application/static/media/logo.d90c82b0f2eab5b89563.png",
+    "index.html": "/VideoChat-Application/index.html",
+    "main.f262e4b4.css.map": "/VideoChat-Application/static/css/main.f262e4b4.css.map",
+    "main.df157bc8.js.map": "/VideoChat-Application/static/js/main.df157bc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f262e4b4.css",
+    "static/js/main.df157bc8.js"
+  ]
+}
