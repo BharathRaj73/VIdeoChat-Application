@@ -32,7 +32,7 @@ const Home = () => {
             <h1 className="text-[50px] md:text-[80px] text-white font-bold pt-12">
               Video Chat
             </h1>
-            <p className="text-[26px] text-white  -mt-2">With JOB-BIE</p>
+            <p className="text-[26px] text-white  -mt-2">With JOB_BIE</p>
           </div>
 
           {/* Enter Code */}
